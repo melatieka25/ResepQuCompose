@@ -1,0 +1,257 @@
+<resources>
+    <string name="app_name">ResepQu 👨‍🍳</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="search_recipe">Cari resep makanan kesukaanmu</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="profile_name">Melati Eka Putri</string>
+    <string name="profile_email">melatieka25@gmail.com</string>
+    <string name="profile_header">Let\'s Connect!</string>
+    <string name="profile_dom">Bekasi</string>
+    <string name="kembali">Kembali</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about_me">About Me</string>
+    <string name="how_to_cook">Cara Membuat</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="share">Bagikan</string>
+    <string name="cara_membuat">Cara Membuat</string>
+    <string name="my_photo">My Photo</string>
+    <string name="name">Melati Eka Putri</string>
+    <string name="email">melatieka25@gmail.com</string>
+    <string name="no_recipe_img">no recipe found image</string>
+    <string name="recipe_not_found">Tidak ada resep ditemukan. Yuk coba cari resep lainnya!</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="no_favorite_recipe">Tidak ada resep favorit</string>
+    <string-array name="data_title">
+        <item>Nasi Goreng</item>
+        <item>Mie Goreng</item>
+        <item>Chicken Parmesan</item>
+        <item>Sate Ayam</item>
+        <item>Spaghetti Carbonara</item>
+        <item>Nasi Lemak</item>
+        <item>Beef Rendang</item>
+        <item>Sushi</item>
+        <item>Tiramisu</item>
+        <item>Tom Yum Goong</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Nasi goreng adalah hidangan Indonesia yang terbuat dari nasi yang digoreng dengan bumbu-bumbu dan tambahan seperti telur, daging ayam, atau udang.</item>
+        <item>Mie goreng adalah hidangan mie yang digoreng dengan bumbu-bumbu seperti kecap, bawang putih, dan cabai, serta tambahan seperti telur, ayam, atau sayuran.</item>
+        <item>Chicken parmesan adalah hidangan daging ayam yang dipanggang dengan saus tomat dan keju parmesan, biasanya disajikan dengan pasta.</item>
+        <item>Sate ayam adalah hidangan daging ayam yang dipotong kecil-kecil dan ditusuk dengan tusuk sate, kemudian dibakar dan disajikan dengan saus kacang.</item>
+        <item>Spaghetti carbonara adalah hidangan pasta yang terbuat dari spaghetti dengan saus yang terdiri dari telur, keju parmesan, dan bacon atau pancetta.</item>
+        <item>Nasi lemak adalah hidangan nasi yang dimasak dengan santan dan bumbu, disajikan dengan ikan teri, telur, kacang, dan sambal.</item>
+        <item>Beef rendang adalah hidangan daging sapi yang dimasak dengan rempah-rempah khas Indonesia seperti serai, lengkuas, dan cabai merah, hingga kuahnya mengental dan daging empuk.</item>
+        <item>Sushi adalah hidangan Jepang yang terdiri dari nasi yang dibentuk dengan ikan atau sayuran, disajikan dengan wasabi, jahe, dan kecap.</item>
+        <item>Tiramisu adalah hidangan penutup yang terdiri dari lapisan kue ladyfingers yang direndam dalam kopi dan krim keju mascarpone.</item>
+        <item>Tom yum goong adalah hidangan sup pedaskhas Thailand yang terbuat dari udang, cabai, lemon grass, dan tomat.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://cdn1-production-images-kly.akamaized.net/KxuztQKl3tnUN0Fw5iAwKsnX_u0=/0x148:1920x1230/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3093328/original/069244600_1585909700-fried-2509089_1920.jpg</item>
+        <item>https://awsimages.detik.net.id/community/media/visual/2022/05/24/resep-bakmi-goreng-spesial-ala-restoran-chinese-food_43.jpeg?w=1200</item>
+        <item>https://assets.bonappetit.com/photos/5ea8f0df16738800085ad5d2/1:1/w_2560%2Cc_limit/Chicken-Parmesean-Recipe-Lede.jpg</item>
+        <item>https://kbu-cdn.com/dk/wp-content/uploads/sate-ayam.jpg</item>
+        <item>https://www.allrecipes.com/thmb/PsYaA1-R6zBfW5AH8QRnA4t02QU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-mfs-043-2b5e74565db24e789aa790adfa87e18d.jpg</item>
+        <item>https://i0.wp.com/resepkoki.id/wp-content/uploads/2017/02/Resep-Nasi-lemak.jpg?fit=1920%2C1920;ssl=1</item>
+        <item>https://cdn0-production-images-kly.akamaized.net/YHppKTMNcRz87-cP2Wrg5Ye8mFc=/1x112:1000x675/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3245094/original/043061400_1600750232-shutterstock_1786027046.jpg</item>
+        <item>https://lh5.googleusercontent.com/5VQaj4zWVnrACbuTcDr1UchSGwvtTAkaVUaF22sGnjpOtXgYtCRqKQ1PT6s754M4Z8bAVx6PFN4UlYBVfTQaDt9w2VkCrz-qt_01XLaMctLay4rOz7Q96LsWAsFNnOEQP2xTs6fy5bL9BShS6RjIWDwntHBqrggpFIu9Wj5C1I-pNoNdw0J4pJnSKWA</item>
+        <item>https://img.kurio.network/_dhhCZechQXEv7EwVlw4DmlLT4U=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/20/12/04/a24d67ad-96c8-4fa2-9187-b221e8a06934.jpg</item>
+        <item>https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2021/03/Tom-Yum-07-mini.jpg?fit=1000%2C667;ssl=1</item>
+    </string-array>
+    <string-array name="data_author_name">
+        <item>Melati Eka</item>
+        <item>Robert Johnson</item>
+        <item>Samantha Brown</item>
+        <item>David Lee</item>
+        <item>Amy Chen</item>
+        <item>Michael Davis</item>
+        <item>Kelly Jones</item>
+        <item>Chris Wilson</item>
+        <item>Emily Taylor</item>
+        <item>Joshua Lee</item>
+    </string-array>
+    <string-array name="data_author_dom">
+        <item>Bekasi</item>
+        <item>Chicago</item>
+        <item>Houston</item>
+        <item>Miami</item>
+        <item>San Francisco</item>
+        <item>Dallas</item>
+        <item>Philadelphia</item>
+        <item>Atlanta</item>
+        <item>Boston</item>
+        <item>Denver</item>
+    </string-array>
+    <string-array name="data_author_photo">
+        <item>https://bem.cs.ui.ac.id/staff/BEMS/Melati%20Eka%20Putri.png</item>
+        <item>https://randomuser.me/api/portraits/men/3.jpg</item>
+        <item>https://randomuser.me/api/portraits/women/4.jpg</item>
+        <item>https://randomuser.me/api/portraits/men/5.jpg</item>
+        <item>https://randomuser.me/api/portraits/women/6.jpg</item>
+        <item>https://randomuser.me/api/portraits/men/7.jpg</item>
+        <item>https://randomuser.me/api/portraits/women/8.jpg</item>
+        <item>https://randomuser.me/api/portraits/men/9.jpg</item>
+        <item>https://randomuser.me/api/portraits/women/10.jpg</item>
+        <item>https://randomuser.me/api/portraits/men/13.jpg</item>
+    </string-array>
+    <string-array name="data_created_date">
+        <item>Senin, 1 Januari 2023</item>
+        <item>Kamis, 4 Januari 2023</item>
+        <item>Jumat, 5 Januari 2023</item>
+        <item>Sabtu, 6 Januari 2023</item>
+        <item>Minggu, 7 Januari 2023</item>
+        <item>Senin, 8 Januari 2023</item>
+        <item>Selasa, 9 Januari 2023</item>
+        <item>Rabu, 10 Januari 2023</item>
+        <item>Kamis, 11 Januari 2023</item>
+        <item>Minggu, 14 Januari 2023</item>
+    </string-array>
+
+    <string-array name="data_howtotext_0">
+        <item>Siapkan bahan, dan haluskan bumbu halus.</item>
+        <item>Bumbui dengan lada, garam, kaldu bubuk. Lalu aduk rata.</item>
+        <item>Masukkan nasinya aduk merata.</item>
+        <item>Masak hingga matang.</item>
+    </string-array>
+    <string-array name="data_howtoimage_0">
+        <item>https://cdn.yummy.co.id/content-images/images/20220214/2winrpkw6DMaGsFWcoeDD30sn9kdKlVZ-31363434383136313632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20220214/VDno221zc1oXab3af5D5hXuVZfLEjhGP-31363434383136313133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20220214/MvCxSTIMsrzFwEZXihDnh3JcGbgR6IKA-31363434383136323030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20220216/7K1SfvhyOZElBnQnDZGFcr2e86j4YqhB-31363434393736373538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+    </string-array>
+
+    <string-array name="data_howtotext_1">
+        <item>Siapkan bahan, dan haluskan bumbu halus.</item>
+        <item>Rebus mie sesuai dengan petunjuk kemasan kemudian tiriskan. Beri minyak (agar tidak lengket) dan 3 sdm kecap manis.</item>
+        <item>Orak arik telur sampai matang, tambahkan sosis dan bakso kemudian sisihkan. Tumis bumbu sampai harum masukkan sawi beri air sedikit aduk sampai layu. Masukkan mie beserta telur bakso sosis.</item>
+        <item>Siap dihidangkan.</item>
+    </string-array>
+    <string-array name="data_howtoimage_1">
+        <item>https://cdn.yummy.co.id/content-images/images/20210912/ERJvv4WDeu5biPM9cSfUylGasO6UvHYN-31363331343038373832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210912/bBeQOlqvu3OnGApGg2i0Uo1O8FWRH4S2-31363331343038373930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210912/N6C53X9yPX3hHu1uZHS2yQU9UVfxunrB-31363331343038373936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210912/oC7JmWdaDL4C3fyn9NsEqh1BUGAw6ym8-31363331343038383130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+    </string-array>
+
+    <string-array name="data_howtotext_2">
+        <item>Haluskan bawang putih, marinasi ayam, bawang putih, maizena selama 30 menit.</item>
+        <item>Goreng ayam sampai garing.</item>
+        <item>Tumis bawang putih cincang dengan butter.</item>
+        <item>Masukkan sayap ayam goreng, aduk rata.</item>
+        <item>Tambahkan parmesan, aduk rata lalu angkat dan sajikan.</item>
+    </string-array>
+    <string-array name="data_howtoimage_2">
+        <item>https://cdn.yummy.co.id/content-images/images/20211021/bHOKnIMOdV9IJmbQ6EFfkCSeV607JcBv-31363334383136343337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20211021/FXIx8TmTdxeI7u9vDEmGn3jKdbgxRwOm-31363334383136343439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20211021/w1uBNmV9KW7F304o7HrCfCJC6F9RE4tA-31363334383136343631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20211021/eRKoprvqTAVmr8aV24n3hsFIVJg0qCSZ-31363334383136343735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20211021/z0WuI0zMwZ07C6GPID0qYgTYkxrg13j5-31363334383136343930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+    </string-array>
+
+    <string-array name="data_howtotext_3">
+        <item>Siapkan semua bahan, cuci bersih ayam kemudian potong dadu.</item>
+        <item>Ambil tusukan sate, tusuk ayam dengan tusukan sate dan sisihkan.</item>
+        <item>Siapkan kecap, lumuri ayam dengan kecap dan bakar hingga matang.</item>
+        <item>Rebus bumbu sate bersama air, beri garam, gula pasir, kecap manis, aduk hingga mengental. Angkat dan sajikan dengan sate ayam.</item>
+    </string-array>
+    <string-array name="data_howtoimage_3">
+        <item>https://cdn.yummy.co.id/content-images/images/20210118/VLCIcocAQ99b9Usx7jkFXDw7sxWJaowa-31363130393533323431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210118/LzJzBxii4Fx4mrAlqSFs3YJI4EHAksEs-31363130393533323436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210118/OPnKsPuL8acmWIUSkRNqFNjX6ceqjJvn-31363130393533323531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210118/NuN2ytdiHsGTOUgI5Polo58gxoNu7l2N-31363130393533323536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+    </string-array>
+
+    <string-array name="data_howtotext_4">
+        <item>Rebus spaghetti ke dalam susu dan air hingga menyusut.</item>
+        <item>Selagi menunggu spaghetti matang, tumis bawang bombay dan bawang putih yang sudah dicincang hingga wangi lalu masukkan potongan sosis hingga matang kemudian matikan api.</item>
+        <item>Disisi lain, kocok kuning telur dan bumbui dengan lada dan garam.</item>
+        <item>Masukan keju dan aduk hingga rata.</item>
+        <item>Nyalakan kembali api dengan api kecil, masukkan spaghetti yang sudah matang dan masukan telur yang sudah dicampur keju lalu aduk hingga rata dan sajikan.</item>
+    </string-array>
+    <string-array name="data_howtoimage_4">
+        <item>https://cdn.yummy.co.id/content-images/images/20200413/72n7CVhVihIzH0YjN2bqxYuPa99KEvUx-31353836373731343738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20200413/J52g562apWtKCJ5zbUkKfZM20dGyIKg0-31353836373731343832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20200413/SvD7EEd5Ty6yWKSGR5a5POYrAzswPBW0-31353836373731343836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20200413/9FMKRGcCv3awOXW5b25dbillWnCs38sT-31353836373731343930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20200413/IbgIFZzSwlLLIvBYMydIZsNoT1FsQoAe-31353836373731343933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+    </string-array>
+
+    <string-array name="data_howtotext_5">
+        <item>Buat nasi lemak. Cuci beras, masukkan bumbu, santan, dan air seperti saat akan menanak nasi di magic com.</item>
+        <item>Iris tipis wortel dan jamur kuping, iris juga bawang merah dan bawang putih untuk menumis pelengkap.</item>
+        <item>Panaskan minyak, goreng kacang dan asin teri hingga matang, tiriskan.</item>
+        <item>Buat teri kacang. Pertama, tumis bawang merah dan bawang putih dengan sedikit minyak (sekitar 1/2 sdt), Setelah harum, masukkan kacang dan teri. Lalu masukkan gula pasir dan garam, aduk hingga rata.</item>
+        <item>Buat bihun goreng, pertama-tama panaskan 2 sdm minyak. Tumis bawang merah dan putih hingga harum, kemudian masukkan sayuran. Aduk merata dan tambahkan bumbu-bumbu. Tambah sedikit air. Masak hingga bumbu menyerap.</item>
+    </string-array>
+    <string-array name="data_howtoimage_5">
+        <item>https://cdn.yummy.co.id/content-images/images/20201214/ftoEnHQA0jdINABcRoVBkiRuFYgGMAeQ-31363037393531303532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20201214/JFciP6yDsp560QqMUTiNjdFyrLRes21a-31363037393531303534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20201214/wdjmsG1DawOzUsS85l0KsYMLxSlThWlv-31363037393531303535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20201214/hCAt7xaoMwPjUuS55zbISZT030i46N5g-31363037393531303537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20201214/JeJF3H5jgjLEYylXQktAYg99MqyU4wFw-31363037393531303539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+    </string-array>
+
+    <string-array name="data_howtotext_6">
+        <item>Tumis bumbu halus sampai harum, masukkan daun kunyit, kapulaga, bunga lawang, daun jeruk, daun salam, dan cengkeh.</item>
+        <item>Masukan daging, aduk rata.</item>
+        <item>Tambahkan santan, aduk hingga rata. Aduk-aduk agar santan tidak pecah semakin lama akan semakin mengental. Aduk terus biar tidak gosong, kecilkan api. </item>
+        <item>Sudah siap santap sajikan dengan menu lainnya.</item>
+    </string-array>
+    <string-array name="data_howtoimage_6">
+        <item>https://cdn.yummy.co.id/content-images/images/20210620/tjS6IFMYvf4Q4T0ecQgWXKij2P11e0Js-31363234313933353736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210616/FnGgDvSH2G2dKe5ozroRPr8ulOUcAaqI-31363233383538353836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210616/xlPMgi8JzJI7jM0SXPPwspTTBZ1bmsbw-31363233383538353837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210616/Nucl4lh9ZUOQpLecSn1aE4ZrhOgSi7Xx-31363233383538353931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+    </string-array>
+
+    <string-array name="data_howtotext_7">
+        <item>Campur nasi dengan minyak wijen, kaldu jamur.</item>
+        <item>Tata di atas nori.</item>
+        <item>Isi dengan crabstick dan timun.</item>
+        <item>Lalu gulung dan oles dengan minyak wijen.</item>
+        <item>Potong-potong dan sajikan.</item>
+    </string-array>
+    <string-array name="data_howtoimage_7">
+        <item>https://cdn.yummy.co.id/content-images/images/20220909/VQB2FRn1ejhBXREVJC1l9mvEiU6DxXyl-31363632373132343138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20220909/zhhpKIMyh98l2IJkfRLjuczrTMaKlsUi-31363632373132323736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20220909/Si5DUusjeIToeiEyrBlHyMeB1j1GS4xy-31363632373132323739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20220909/DBlk63kD54yrwXzLWhDxpeEELBgHvZYc-31363632373132343238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20220909/P7sQCbi41G5FVNPz65XvKJJNJXIw7T7q-31363632373132343239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+    </string-array>
+
+    <string-array name="data_howtotext_8">
+        <item>Kocok whipcream, mascarpone, gula, pasta vanilla.</item>
+        <item>Celupkan lady finger ke larutan kopi.</item>
+        <item>Semprotkan cream.</item>
+        <item>Lady finger lagi.</item>
+        <item>Dust pake cocoa powder garnish daun mint.</item>
+    </string-array>
+    <string-array name="data_howtoimage_8">
+        <item>https://cdn.yummy.co.id/content-images/images/20220701/J55zQIYV8Pc8qKlXSnwLwQ6Bx1pSt0K9-31363536363533343238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20220701/7hEJlGbnAbRNM4HzOXd8kXYRiQzEOLyf-31363536363533343239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20220701/GmzjOvc2C8D38ImcKHcWKMCzIUGJCvZy-31363536363533343331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20220701/apSKMM9dAkM6Q0tkRaNhIusAwJScjGV5-31363536363533333434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20220701/ACfch3spyBL0lGM1cdFsTfe0D3DFxtCw-31363536363533343334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+    </string-array>
+
+    <string-array name="data_howtotext_9">
+        <item>Persiapkan bahan isian dan bumbu pelengkap.</item>
+        <item>Persiapkan pasta tom yum.</item>
+        <item>Panaskan minyak, kemudian tumis pasta tom yum bersama serai, daun jeruk dan lengkuas.</item>
+        <item>Masukkan bahan isian (udang, cumi dan ikan aku tumis terpisah biar tidak terlalu amis. Bila sudah setengah matang aku campur ke bahan yang lain). Aduk hingga bumbu rata.</item>
+        <item>Tambahkan air kemudian bumbui dengan kecap ikan, garam, gula dan penyedap rasa. Masak hingga air mendidih, aduk sebentar lalu matikan api. Kucurkan perasan air jeruk nipis saat akan disajikan, yummy!</item>
+    </string-array>
+    <string-array name="data_howtoimage_9">
+        <item>https://cdn.yummy.co.id/content-images/images/20210127/z7Rw0JoU9EeG6TQZNj0CyGcbvBEzgBOz-31363131373538323130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210127/YAnxpdafUylWgPdlrwpdN8tnGH3wgdaG-31363131373538323131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210127/YAnxpdafUylWgPdlrwpdN8tnGH3wgdaG-31363131373538323131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210127/Mz9egnO54URZzuHRKstgwngqpruC8X1s-31363131373538323134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+        <item>https://cdn.yummy.co.id/content-images/images/20210127/xsyswK5MKCG7CY0Po7w34FVvuLWOo4DG-31363131373538323136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_220,h_220,m_fixed,image/format,webp</item>
+    </string-array>
+
+
+</resources>
